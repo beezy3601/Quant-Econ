@@ -11,3 +11,5 @@ numpydoc
 scipy
 
 matplotlib
+
+rq
